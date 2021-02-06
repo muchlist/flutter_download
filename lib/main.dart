@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_download/progress.dart';
+import 'file:///C:/flutter-project/flutter_download/lib/provider/download_progress.dart';
 import 'package:provider/provider.dart';
 
 import 'download_widget.dart';
